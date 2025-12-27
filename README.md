@@ -1,2 +1,2 @@
 # OculusKillerV2
-This is a newer version of the OculusKiller after it got archived. Instead of killing the dash it "replaces" it.
+Quick workable hotfix. Works as expected. Still runs in the background at just 10-20MB instead of 500MB
