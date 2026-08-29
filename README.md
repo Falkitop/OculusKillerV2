@@ -1,2 +1,3 @@
-# OculusKillerV2
-Quick workable hotfix. Works as expected. Still runs in the background at just 10-20MB instead of 500MB
+For me the original EXE worked + executing this as admin in the Console:
+
+reg add "HKLM\SOFTWARE\Wow6432Node\Oculus VR, LLC\Oculus\Config" /v PreventDashLaunch /t REG_DWORD /d 1 /f
